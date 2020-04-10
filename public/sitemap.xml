@@ -38,6 +38,10 @@
   </url>
   
   <url>
+    <loc>/headless/summary/</loc>
+  </url>
+  
+  <url>
     <loc>/v1.5/</loc>
     <priority>0</priority>
   </url>
@@ -384,6 +388,10 @@
   
   <url>
     <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/headless/</loc>
   </url>
   
   <url>

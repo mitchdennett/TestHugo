@@ -1,5 +1,6 @@
 {{$currentNode := .}}
 {{$currentSection := .Section}}
+{{ $page := .Site.GetPage "page" "headless/SUMMARY.md" }}
 
 
 <div class="docs-menu">
@@ -19,7 +20,7 @@
   </div>
   <ul class="toc">
     {{ .Scratch.Set "greeting" "Hello" }}
-    {{ (readFile (print "/content/v1.5/SUMMARY.md")) | .RenderString }}
+    {{ $page.Content }}
     {{ .Scratch.Delete "greeting" }}
   </ul>
 </div>

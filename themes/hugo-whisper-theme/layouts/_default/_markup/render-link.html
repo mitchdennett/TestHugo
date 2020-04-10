@@ -1,3 +1,0 @@
-<div>
-    <a href="{{ .Text }}"{{ with .Title}} title="{{ . }}"{{ end }}{{ if strings.HasPrefix .Destination "http" }} target="_blank"{{ end }}>{{ .Text | safeHTML }}</a>
-</div>
