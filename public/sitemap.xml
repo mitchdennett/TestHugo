@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/docs/</loc>
+    <lastmod>2018-11-28T15:14:39+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/install-hugo/</loc>
+    <lastmod>2019-02-11T19:27:37+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/install-theme/</loc>
+    <lastmod>2019-02-11T19:27:37+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/configure/</loc>
+    <lastmod>2019-02-11T19:30:08+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/specimen/</loc>
+    <lastmod>2019-02-11T19:27:37+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/example/</loc>
+    <lastmod>2019-02-11T19:27:37+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-11-28T15:14:39+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/v1.5/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/advanced/creating-a-mail-driver/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/advanced/creating-packages/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/advanced/extending-classes/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/advanced/middleware/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/advanced/sessions/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/advanced/validation/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/architectural-concepts/request-lifecycle/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/architectural-concepts/service-container/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/architectural-concepts/service-providers/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/assets/authentication/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/assets/controllers/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/controllers/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/creating-commands/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/creating-your-first-blog/introduction/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/creating-your-first-blog/part-1-creating-our-first-route/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/creating-your-first-blog/part-2-creating-our-first-controller/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/creating-your-first-blog/part-3-authentication/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/creating-your-first-blog/part-3-designing-our-blog/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/creating-your-first-blog/part-4-migrations/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/creating-your-first-blog/part-5-models/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/database/orator-orm/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/managers-and-drivers/about-drivers/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/managers-and-drivers/about-managers/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/managers-and-drivers/contracts/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/masonite-authhub/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/masonite-clerk/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/masonite-triggers/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/methods/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/middleware/creating-commands/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/models/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/orator-orm/database-migrations/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/orator-orm/introduction/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/prologue/contributing-guide/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/prologue/how-to-contribute/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/prologue/introduction-and-installaton/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/prologue/release-cycle/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/publishing-packages/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/readme/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/routing/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/security/authentication/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/security/csrf-protection/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/security/encryption/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/summary/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/the-basics/controllers/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/the-basics/helper-functions/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/the-basics/requests/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/the-basics/routing/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/the-basics/static-files/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/the-basics/views/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/the-craft-command/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/the-craft-command/authentication-system/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/the-craft-command/creating-commands/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/the-craft-command/introduction/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/todo/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/upgrade-guide/masonite-1.3-to-1.4/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/upgrade-guide/masonite-1.4-to-1.5/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/useful-features/broadcasting/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/useful-features/caching/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/useful-features/compiling-assets/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/useful-features/mail/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/useful-features/queues-and-jobs/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/useful-features/template-caching/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/useful-features/uploading/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/useful-features/view-composers-and-sharing/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/views/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/whats-new/masonite-1.3/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/whats-new/masonite-1.4/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/v1.5/whats-new/masonite-1.5/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+  </url>
+  
+</urlset>

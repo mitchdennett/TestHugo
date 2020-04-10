@@ -1,0 +1,26 @@
+{{$currentNode := .}}
+{{$currentSection := .Section}}
+
+
+<div class="docs-menu">
+  <div class="form-input-group mb-3 pr-3">
+    <label>Version</label>
+    <div class="custom_select">
+      <select onchange="this.options[this.selectedIndex].value && (window.location = this.options[this.selectedIndex].value);">
+        {{ range .Site.Sections }}
+          {{ if eq .Section $currentSection}}
+            <option value="{{ .Permalink }}" selected>{{ .Section }}</option>
+          {{ else }}
+            <option value="{{ .Permalink }}">{{ .Section }}</option>
+          {{ end }}
+        {{ end }}
+      </select>
+    </div>
+  </div>
+  <ul class="toc">
+    {{ .Scratch.Set "greeting" "Hello" }}
+    {{ (readFile (print "/content/v1.5/SUMMARY.md")) | .RenderString }}
+    {{ .Scratch.Delete "greeting" }}
+  </ul>
+</div>
+

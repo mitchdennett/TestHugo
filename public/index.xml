@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Whisper Docs on Hugo Whisper Theme</title>
+    <link>/</link>
+    <description>Recent content in Hugo Whisper Docs on Hugo Whisper Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Install Hugo</title>
+      <link>/docs/install-hugo/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>/docs/install-hugo/</guid>
+      <description>To use this theme you will need to have Hugo installed. If you don&amp;rsquo;t already have Hugo installed please follow the official  installation guide 
+Check Hugo Version This theme uses  Hugo Pipes  to compile SCSS and minify assets.</description>
+    </item>
+    
+    <item>
+      <title>Install Theme</title>
+      <link>/docs/install-theme/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>/docs/install-theme/</guid>
+      <description>Create a new Hugo site hugo new site mynewsite This will create a fresh Hugo site in the folder mynewsite.
+Install theme Copy or git clone this theme into the sites themes folder mynewsite/themes</description>
+    </item>
+    
+    <item>
+      <title>Configuration</title>
+      <link>/docs/configure/</link>
+      <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
+      
+      <guid>/docs/configure/</guid>
+      <description>Syntax highlighting and menus can be configured via &lt;code&gt;config.toml&lt;/code&gt;.</description>
+    </item>
+    
+    <item>
+      <title>Specimen</title>
+      <link>/docs/specimen/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>/docs/specimen/</guid>
+      <description>Markdown Test Page   Headings   Paragraphs   Blockquotes   Lists   Horizontal rule   Table   Code   Inline elements    Headings Heading one Sint sit cillum pariatur eiusmod nulla pariatur ipsum.</description>
+    </item>
+    
+    <item>
+      <title>Hugo Whisper</title>
+      <link>/docs/example/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>/docs/example/</guid>
+      <description>&lt;p&gt;Whisper is a minimal documentation theme built for Hugo. The design &amp;amp; functionality is intentionally minimal.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/advanced/creating-a-mail-driver/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/advanced/creating-a-mail-driver/</guid>
+      <description>Creating a Mail Driver Introduction Because of Masonite&amp;rsquo;s Service Container, It is extremely easy to make drivers that can be used by simply adding your service provider.
+Getting Started Masonite comes shipped with a Service Provider called MailProvider which loads a few classes into the container as well as boots the default mail driver using the MailManager.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/advanced/creating-packages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/advanced/creating-packages/</guid>
+      <description>Creating Packages Introduction Creating packages is very simple for Masonite. You can get a package created and on PyPi is less than 5 minutes. With Masonite packages you&amp;rsquo;ll easily be able to integrate and scaffold all Masonite projects with ease.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/advanced/extending-classes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/advanced/extending-classes/</guid>
+      <description>Extending Classes Introduction It&amp;rsquo;s common to want to use a Service Provider to add new methods to a class. For example, you may want to add a is_authenticated method to the Request class.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/advanced/middleware/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/advanced/middleware/</guid>
+      <description>Middleware Introduction Middleware is an extremely important aspect of web applications as it allows you to run important code either before or after every request or even before or after certain routes.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/advanced/sessions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/advanced/sessions/</guid>
+      <description>Sessions Introduction You&amp;rsquo;ll find yourself needing to add temporary data to an individual user. Sessions allow you to do this by adding a key value pair and attaching it to the user&amp;rsquo;s IP address.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/advanced/validation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/advanced/validation/</guid>
+      <description>Validation Introduction Very often you will find a need to validate forms after you have submitted them. Masonite comes with a very simple and reusable way to validate input data with the Masonite Validator() class.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/architectural-concepts/request-lifecycle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/architectural-concepts/request-lifecycle/</guid>
+      <description>Request Lifecycle Introduction It&amp;rsquo;s important to know the life cycle of the request so you can understand what is going on under the hood in order to write better software. Whenever you have a better understanding of how your development tools work, you will feel more confident as you&amp;rsquo;ll understand what exactly is going on.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/architectural-concepts/service-container/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/architectural-concepts/service-container/</guid>
+      <description>Service Container Introduction The Service Container is an extremely powerful feature of Masonite and should be used to the fullest extent possible. It&amp;rsquo;s important to understand the concepts of the Service Container.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/architectural-concepts/service-providers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/architectural-concepts/service-providers/</guid>
+      <description>Service Providers Introduction Service Providers are the key building blocks to Masonite. The only thing they do is register things into the Service Container, or retrieve things from the Service Container.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/assets/authentication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/assets/authentication/</guid>
+      <description>Authentication Introduction Masonite comes with some authentication out of the box but leaves it up to the developer to implement. Everything is already configured for you by default. The default authentication model is the app/User model but you can change this in the config/auth.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/assets/controllers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/assets/controllers/</guid>
+      <description>Controllers #controllers
+Introduction Controllers are a vital part of Masonite and is mainly what differs it from other Python frameworks that implement the MVC structure differently. Controllers are simply classes with methods.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/controllers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/controllers/</guid>
+      <description>Controllers Introduction Controllers are a vital part of Masonite and is mainly what differs it from other Python frameworks that implement the MVC structure differently. Controllers are simply classes with methods.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/creating-commands/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/creating-commands/</guid>
+      <description>Creating Commands Introduction Creating a command is quite simple with Masonite and allows other developers to use your package in the command line similiar to a craft command by running craft-vendor.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/creating-your-first-blog/introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/creating-your-first-blog/introduction/</guid>
+      <description>Introduction {% hint style=&amp;quot;danger&amp;rdquo; %} This section is incomplete {% endhint %}
+Getting Started We will be walking through step by step and go into great detail on each part we will be building.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/creating-your-first-blog/part-1-creating-our-first-route/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/creating-your-first-blog/part-1-creating-our-first-route/</guid>
+      <description>Part 1 - Creating Our First Route {% hint style=&amp;quot;danger&amp;rdquo; %} This section is incomplete {% endhint %}
+Getting Started All routes are located in routes/web.py and are extremely simple to understand.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/creating-your-first-blog/part-2-creating-our-first-controller/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/creating-your-first-blog/part-2-creating-our-first-controller/</guid>
+      <description>Part 2 - Creating Our First Controller {% hint style=&amp;quot;danger&amp;rdquo; %} This section is incomplete {% endhint %}
+Getting Started All controllers are located in the app/http/controllers directory and Masonite promotes 1 controller per file.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/creating-your-first-blog/part-3-authentication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/creating-your-first-blog/part-3-authentication/</guid>
+      <description>Part 3 - Authentication {% hint style=&amp;quot;danger&amp;rdquo; %} This section is incomplete {% endhint %}
+Getting Started Most applications will require some form of authentication. Masonite comes with a craft command to scaffold out an authentication system for you.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/creating-your-first-blog/part-3-designing-our-blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/creating-your-first-blog/part-3-designing-our-blog/</guid>
+      <description>Part 3 - Designing Our Blog {% hint style=&amp;quot;danger&amp;rdquo; %} This section is incomplete {% endhint %}
+Getting Started Here we will copy and paste some default bootstrap code to get our application looking more .</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/creating-your-first-blog/part-4-migrations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/creating-your-first-blog/part-4-migrations/</guid>
+      <description>Part 4 - Migrations {% hint style=&amp;quot;danger&amp;rdquo; %} This section is incomplete {% endhint %}</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/creating-your-first-blog/part-5-models/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/creating-your-first-blog/part-5-models/</guid>
+      <description>Part 5 - Models {% hint style=&amp;quot;danger&amp;rdquo; %} This section is incomplete {% endhint %}</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/database/orator-orm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/database/orator-orm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/managers-and-drivers/about-drivers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/managers-and-drivers/about-drivers/</guid>
+      <description>About Drivers Introduction Drivers are simply extensions to features that are managed by the Manager Pattern. If we have a UploadManager then we might also create a UploadDiskDriver and a UploadS3Driver which will be able to upload to both the file system (disk) and Amazon S3.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/managers-and-drivers/about-managers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/managers-and-drivers/about-managers/</guid>
+      <description>About Managers Introduction Masonite uses an extremely powerful pattern commonly known as the Manager Pattern; also known as the Builder Pattern. Because Masonite uses classes with the XManager namespace, we will call it the Manager Pattern throughout this documentation.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/managers-and-drivers/contracts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/managers-and-drivers/contracts/</guid>
+      <description>Contracts Introduction Contracts are used when creating drivers to ensure they conform to Masonite requirements. They are a form of interface in other languages where the child class is required to have the minimum number of methods needed for that driver to work.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/masonite-authhub/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/masonite-authhub/</guid>
+      <description>Masonite AuthHub Introduction Masonite AuthHub brings a centralized and easy to integrate OAuth system to the Masonite Framework. Simply add a few lines of code and the entire OAuth workflow is done for you.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/masonite-clerk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/masonite-clerk/</guid>
+      <description>Masonite Clerk Introduction Masonite Clerk provides a very expressive and simple syntax to start charging your users with Stripe. In addition to being incredibly easy to setup, Clerk can handle charges, subscriptions, cancellation, subscription swapping, subscription prorating and customer creation.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/masonite-triggers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/masonite-triggers/</guid>
+      <description>Masonite Triggers Introduction Masonite Triggers is a way to add support for triggering classes within various parts of your project. A great use case is to create a class that sends an email and then simple use trigger(&#39;sendWelcomeEmail&#39;) anywhere in your project.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/methods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/methods/</guid>
+      <description>Defining Methods Methods allow you to smoothly display code examples in different languages.
+{% method %}
+My first method My first method exposes how to print a message in JavaScript and Go.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/middleware/creating-commands/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/middleware/creating-commands/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/models/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/models/</guid>
+      <description>Models Introduction Out of the box, Masonite comes with the Orator ORM as it</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/orator-orm/database-migrations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/orator-orm/database-migrations/</guid>
+      <description>Database Migrations Introduction Database migrations in Masonite is very different than other Python frameworks. Other Python frameworks create migrations based on a model which historically uses Data Mapper type ORM&amp;rsquo;s. Because Masonite uses an Active Record ORM by default, Migrations are completely separated from models.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/orator-orm/introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/orator-orm/introduction/</guid>
+      <description>Orator ORM Introduction The Orator ORM is an Active Record style ORM that is truly a pleasure to work with. Because Masonite strives on separating migrations and models, an Active Record style ORM is a perfect fit.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/prologue/contributing-guide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/prologue/contributing-guide/</guid>
+      <description>Contributing Guide Introduction When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners or contributors of this repository before making a change.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/prologue/how-to-contribute/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/prologue/how-to-contribute/</guid>
+      <description>How To Contribute Introduction There are plenty of ways to contribute to open source. Many of which don&amp;rsquo;t even rely on writing code. A great open source project should have excellent documentation and have as little bugs as possible.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/prologue/introduction-and-installaton/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/prologue/introduction-and-installaton/</guid>
+      <description>Introduction and Installaton Masonite is the rapid application Python development framework that strives for: beautiful and elegant syntax, actual batteries included with a lot of out of the box functionality, and extremely extendable.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/prologue/release-cycle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/prologue/release-cycle/</guid>
+      <description>Release Cycle Introduction The Masonite framework itself follows the RomVer versioning schema which is PARADIGM.MAJOR.MINOR although all Masonite packages follow the SemVer versioning schema which is MAJOR.MINOR.FEATURE/BUGFIX.
+This means that a framework version of 1.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/publishing-packages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/publishing-packages/</guid>
+      <description>Publishing Packages Introduction Publishing packages are a great way for third party packages to integrate into Masonite. They are extremely easy to setup even on existing pip packages. Publishing packages allows any package to create configuration files, routes, controllers, and other integrations that make developing with your packages amazing.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/readme/</guid>
+      <description>Introduction Masonite is the rapid application Python development framework that strives for: beautiful and elegant syntax, actual batteries included with a lot of out of the box functionality, and extremely extendable.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/routing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/routing/</guid>
+      <description>Routing Introduction Masonite Routing is an extremely simple but powerful routing system that at a minimum takes a url and a controller. Masonite will take this route and match it against the requested route and execute the controller on a match.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/security/authentication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/security/authentication/</guid>
+      <description>Authentication Introduction Masonite comes with some authentication out of the box but leaves it up to the developer to implement. Everything is already configured for you by default. The default authentication model is the app/User model but you can change this in the config/auth.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/security/csrf-protection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/security/csrf-protection/</guid>
+      <description>CSRF Protection Introduction Masonite 1.4+ now has out of the box CSRF protection. CSRF, or Cross-Site Request Forgery is when malicious actors attempt to send requests (primarily POST requests) on your behalf.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/security/encryption/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/security/encryption/</guid>
+      <description>Encryption Introduction Masonite comes with bcrypt out of the box but leaves it up to the developer to actually encrypt things like passwords. You can opt to use any other hashing library but bcrypt is the standard of a lot of libraries and comes with some one way hashing algorithms with no known vulnerabilities.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/summary/</guid>
+      <description>Table of contents   Introduction   Prologue   Introduction and Installaton   Contributing Guide   How To Contribute   Release Cycle   What&amp;rsquo;s New   Masonite 1.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/the-basics/controllers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/the-basics/controllers/</guid>
+      <description>Controllers Introduction Controllers are a vital part of Masonite and is mainly what differs it from other Python frameworks that implement the MVC structure differently. Controllers are simply classes with methods.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/the-basics/helper-functions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/the-basics/helper-functions/</guid>
+      <description>Helper Functions Introduction Masonite works on getting rid of all those mundane tasks that developers either dread writing or dread writing over and over again. Because of this, Masonite has several helper functions that allows you to quickly write the code you want to write without worrying about imports or retrieving things from the Service Container.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/the-basics/requests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/the-basics/requests/</guid>
+      <description>Requests Introduction The Request class is initialized when the server first starts and is modified on every request. This means that the Request class acts as a singleton and is not reinitialized on every request.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/the-basics/routing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/the-basics/routing/</guid>
+      <description>Routing Introduction Masonite Routing is an extremely simple but powerful routing system that at a minimum takes a url and a controller. Masonite will take this route and match it against the requested route and execute the controller on a match.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/the-basics/static-files/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/the-basics/static-files/</guid>
+      <description>Static Files Introduction Masonite tries to make static files extremely easy and comes with whitenoise out of the box. White noise wraps the WSGI application and listens for certain URI requests that can be resistered in your configuration files.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/the-basics/views/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/the-basics/views/</guid>
+      <description>Views Introduction Views contain all the HTML that you’re application will use to render to the user. Unlike Django, views in Masonite are your HTML templates. All views are located inside resources/templatesdirectory.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/the-craft-command/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/the-craft-command/</guid>
+      <description>The Craft Command Introduction The craft command tool is a powerful developer tool that lets you quickly scaffold your project with models, controllers and views as well as condense nearly everything down to it’s simplest form via the craft namespace.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/the-craft-command/authentication-system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/the-craft-command/authentication-system/</guid>
+      <description>Authentication System </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/the-craft-command/creating-commands/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/the-craft-command/creating-commands/</guid>
+      <description>Creating Commands Introduction It&amp;rsquo;s extremely simple to add commands to Masonite via the craft command tool and Service Providers. If you have been using Masonite for any amount of time you will learn that commands are a huge part of developing web applications with Masonite.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/the-craft-command/introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/the-craft-command/introduction/</guid>
+      <description>Introduction Introduction The craft command tool is a powerful developer tool that lets you quickly scaffold your project with models, controllers, views, commands, providers, etc. which will condense nearly everything down to it’s simplest form via the craft namespace.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/todo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/todo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/upgrade-guide/masonite-1.3-to-1.4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/upgrade-guide/masonite-1.3-to-1.4/</guid>
+      <description>Masonite 1.3 to 1.4 Introduction Masonite 1.4 brings several new features and a few new files. This is a very simple upgrade and most of the changes were done in the pip package of Masonite.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/upgrade-guide/masonite-1.4-to-1.5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/upgrade-guide/masonite-1.4-to-1.5/</guid>
+      <description>Masonite 1.4 to 1.5 Introduction Masonite 1.5 doesn&amp;rsquo;t bring many file changes to Masonite so this upgrade is fairly straight forward and should take less than 10 minutes.
+Requirements.txt All requirements are now gone with the exception of the WSGI server (waitress) and the Masonite dependency.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/useful-features/broadcasting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/useful-features/broadcasting/</guid>
+      <description>Broadcasting Introduction Masonite understands the developer need for building modern web applications so Masonite 1.4+ ships with WebSocket support. With a new Service Provider, configuration file and support for the pusher and ably drivers out of the box, we can now have full web socket support quickly and easily.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/useful-features/caching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/useful-features/caching/</guid>
+      <description>Caching Introduction Caching is an important aspect to any project and typically is used to speed up data that never changes and required a lot of resources to get. Powerful caching support is important in any application and Masonite comes with great caching support out of the box.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/useful-features/compiling-assets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/useful-features/compiling-assets/</guid>
+      <description>Compiling Assets Introduction Understanding that modern frameworks need to handle modern web applications. Many developers are starting to use third party packages, like Sass, to write CSS. Normally, many people who write Sass in other frameworks will need to run other third party services like Webpack or grunt.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/useful-features/mail/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/useful-features/mail/</guid>
+      <description>Mail Introduction Masonite comes with email support out of the box. Most projects you make will need to send emails upon actions like account creation or notifications. Because email is used so often with software applications, masonite provides mail support with several drivers.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/useful-features/queues-and-jobs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/useful-features/queues-and-jobs/</guid>
+      <description>Queues and Jobs Introduction Almost all applications can make use of queues. Queues are a great way to make time intensive tasks immediate by sending the task into the background. It&amp;rsquo;s great to send anything and everything into the queue that doesn&amp;rsquo;t require an immediate return value &amp;ndash; such as sending an email or firing an API call.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/useful-features/template-caching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/useful-features/template-caching/</guid>
+      <description>Template Caching Introduction Sometimes your templates will not change that often and may have a lot of logic that takes times to run such as several loops or even a very large order of magnitude.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/useful-features/uploading/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/useful-features/uploading/</guid>
+      <description>Uploading Introduction Very often you will need to upload user images such as a profile image. Masonite let&amp;rsquo;s you handle this very elegantly and allows you to upload to both the disk, and Amazon S3 out of the box.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/useful-features/view-composers-and-sharing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/useful-features/view-composers-and-sharing/</guid>
+      <description>View Composers and Sharing Introduction Very often you will find yourself adding the same variables to a view again and again. This might look something like
+def show(self): return view(&amp;#39;dashboard&amp;#39;, {&amp;#39;request&amp;#39;: request()}) def another_method(self): return view(&amp;#39;dashboard/user&amp;#39;, {&amp;#39;request&amp;#39;: request()}) This can quickly become annoying and it can be much easier if you can just have a variable available in all your templates.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/views/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/views/</guid>
+      <description>Views Introduction Views contain all the HTML that you’re application will use to render to the user. Unlike Django, views in Masonite are your HTML templates. All views are located inside resources/templates</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/whats-new/masonite-1.3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/whats-new/masonite-1.3/</guid>
+      <description>Masonite 1.3 Introduction Masonite 1.3 comes with a plethora of improvements over previous versioning. This version brings new features such as Queue and Mail drivers as well as various bug fixes.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/whats-new/masonite-1.4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/whats-new/masonite-1.4/</guid>
+      <description>Masonite 1.4 Introduction Masonite 1.4 brings several new features to Masonite. These features include caching, template caching, websocket support with Masonite calls Broadcasting and much more testing to make Masonite as stable as possible.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/v1.5/whats-new/masonite-1.5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/v1.5/whats-new/masonite-1.5/</guid>
+      <description>Masonite 1.5 Introduction Masonite 1.5 is focused on a few bug fixes and changes to several core classes in order to expand on the support of third party package integration.</description>
+    </item>
+    
+  </channel>
+</rss>
